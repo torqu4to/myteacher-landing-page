@@ -6,7 +6,7 @@ Landing page do projeto MyTeacher desenvolvido no Workshop Semana React e Python
 
 [🔗 Clique aqui para acessar](https://torqu4to.github.io/nlw-esports-explorer/)
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias utilizadas
 
 - HTML
 - CSS
