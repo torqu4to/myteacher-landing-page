@@ -1,4 +1,4 @@
-# MyTeacher landing page
+# MyTeacher Landing page
 
 ![preview](./.github/preview.png)
 
